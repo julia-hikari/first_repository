@@ -1,0 +1,31 @@
+.div_Apai {
+    background-color: #cf6464;
+    height: 500px;
+    width: 500px;
+}
+
+.div_B {
+    background-color: #d84316;
+    height: 50%;
+    width: 50%;
+}
+
+.p_C {
+    background-color: #c45fd1;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+}
+
+.div_Dmae {
+    background-color: rgb(58, 43, 109);
+    height: 50vh;
+    width: 50vw;
+}
+
+.div_E {
+    background-color: rgb(161, 19, 14);
+    height: 50%;
+    width: 75vw;
+}
